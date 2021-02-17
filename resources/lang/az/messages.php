@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'customerCreate' => 'Yeni müştəri yaradıldı.',
+    'customerUpdate' => 'Müştəri məlumatlarə yeniləndi.',
+    'customerDelete' => 'Müştəri silindi.',
+    'categoryCreate' => 'Kateqoriya yaradıldı.',
+    'categoryUpdate' => 'Kateqoriya yeniləndi.',
+    'categoryDelete' => 'Kateqoriya silindi.',
+    'productDelete' => 'Məhsul silindi.',
+    'productCreate' => 'Məhsul yaradıldı.',
+    'productUpdate' => 'Məhsul yeniləndi.',
+    'brandCreate' => 'Marka yaradıldı.',
+    'brandUpdate' => 'Marka yeniləndi.',
+    'deleteTitle' => 'Silmək istədiyindən əminsən?',
+    'archivedTitle' => 'Arxivə göndərilsin?',
+    'confirmText' => 'Təsdiq et.',
+    'cancelText' => 'İmtina et.',
+    'archived' => 'Arxivləşdirildi.',
+    'restored' => 'Geri qaytarıldı.',
+    'deleted' => 'Silindi.',
+    'restoreTitle' => 'Məqaləni geri qaytarmaq istəyirsiniz?',
+    'productTypeCreate' => 'Məhsul tipi yaradıldı.',
+    'productTypeUpdate' => 'Məhsul tipi yeniləndi.',
+    'campaignCreate' => 'Kompaniya yaradıldı.',
+    'campaignUpdate' => 'Kompaniya yeniləndi.',
+    'campaignDelete' => 'Kompaniya silindi.',
+];
